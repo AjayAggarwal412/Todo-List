@@ -4,9 +4,11 @@ Steps and installation
 
 1. Download the zip file and store it in a desired location.
 2. Open command prompt and locate to the location where you have unzipped the "ToDolistMain" folder.
-   example: #cd desktop/
-            # C:\Users\HP\desktop> cd ToDolistMain
-            # C:\Users\HP\desktop\ToDolistMain> 
+example:
+#cd desktop/
+# C:\Users\HP\desktop> cd ToDolistMain
+# C:\Users\HP\desktop\ToDolistMain> 
+
 3. Now install some packages using below commands:
 # npm install
 This will install npm module in the project.
@@ -28,7 +30,7 @@ This will install Lodash library in the project.
 4. Now in the text editor(Visual Studio Code),Open package.json file and check all the dependencies which we have installed.
    For example,  
    
-  '''{
+  "" "{
   "name": "ejs-challenge",
   "version": "1.0.0",
   "description": "",
@@ -44,7 +46,7 @@ This will install Lodash library in the project.
     "express": "^4.16.3",
     "lodash": "^4.17.20"
   }
-}'''
+}"" "
 
 5. Now open your web browser and type: "localhost:3000".This will run your project.
 
