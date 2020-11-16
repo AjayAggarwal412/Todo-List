@@ -5,7 +5,7 @@ Steps and installation
 1. Download the zip file and store it in a desired location.
 2. Open command prompt and locate to the location where you have unzipped the "ToDolistMain" folder.
 example:
-#cd desktop/
+# cd desktop/
 # C:\Users\HP\desktop> cd ToDolistMain
 # C:\Users\HP\desktop\ToDolistMain> 
 
