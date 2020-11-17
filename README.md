@@ -13,7 +13,7 @@ Steps and installation
    C:\Users\HP\desktop\ToDolistMain>
    ```
 
-3. Now install some packages using below commands:
+3. Now intialize mpn package using below command:
 
    ```
    npm install
